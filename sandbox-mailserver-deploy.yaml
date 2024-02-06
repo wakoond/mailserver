@@ -1,0 +1,8 @@
+template-file-path: template.yaml
+parameters:
+  MailInABoxDomain: takacsfamily.online
+  InstanceEIP: 34.231.112.22
+  BackupS3Bucket: sandbox-mailserver-backup
+  NextCloudS3Bucket: sandbox-mailserver-nextcloud-data
+  KeyName: sandbox-mailserver
+tags: {}
